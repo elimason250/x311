@@ -1369,8 +1369,8 @@ function load()
         })
 
         local Tabs = {
-            Combat = Window:AddTab("Combat"),
-            Visuals = Window:AddTab("Visuals"),
+            Combat = Window:AddTab("Main"),
+            Visuals = Window:AddTab("Esps"),
             AntiAim = Window:AddTab("Anti Aim"),
             Misc = Window:AddTab("Misc"),
             Settings = Window:AddTab("Settings")
